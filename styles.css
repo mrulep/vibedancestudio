@@ -1,0 +1,200 @@
+@charset "UTF-8";
+ul li a, #btn {
+	color: #000000;
+	padding: 10px;
+	border-radius: 20px;
+	text-decoration: none;
+	font-family: 'League Spartan', sans-serif;
+}
+ul li {
+	list-style-type: none;
+	display: inline;
+	padding: 20px;
+	text-transform: uppercase;
+}
+nav {
+	float: right;
+	margin-top: 25px;
+	font-size: 18px;
+}
+ul li a:hover, .active, #btn {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+#hero img {
+    margin: auto;
+    width: 100%;
+    max-width: 4442;
+}
+#hero {
+	width: 100%;
+    text-align: center;
+}
+header {
+	margin-top: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 30px;
+	width: 80%;
+}
+main {
+    margin: auto;
+    width: 80%;
+    clear: both;
+    margin-bottom: 40px;
+}
+
+main p {
+    padding: 20px;
+}
+
+p {
+    font-family: 'Libre Baskerville', serif;
+
+}
+
+h2 {
+	margin-top: 40px;
+	font-family: 'League Spartan', sans-serif;
+	font-size: 36px;
+}
+
+footer {
+    width: 80%;
+    background-color: #000000;
+    padding: 30px;
+    color: #FFFFFF;
+    margin: auto;
+}
+footer a {
+    color: #FFFFFF;
+    font-family: 'League Spartan', sans-serif;
+    text-decoration: none;
+    text-align: left;
+    padding: 10px;
+}
+footer p {
+    text-align: left;
+    padding: 10px;
+    padding-top: 0px;
+}
+
+#flyer {
+    width: 20%;
+    margin: auto;
+    display: block;
+}
+
+footer a:hover {
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    padding: 10px;
+    color: #000000;
+}
+
+#lineup {
+    text-align: center;
+}
+
+#lineup h2 {
+    margin-bottom: 0;
+}
+
+.banner {
+    background-color: #000000;
+    color: #FFFFFF; 
+    padding: 20px;
+    font-style: italic;
+}
+
+#lineup p {
+    padding: 10px;
+    margin: 0;
+}
+
+.date {
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 60px;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+#portrait {
+    width: 30%;
+}
+
+#pic {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.story {
+    margin: auto;
+    width: 50%;
+    text-align: justify;
+}
+
+quote {
+    margin: auto;
+    width: 20%;
+}
+
+quote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+quote p {
+  display: inline;
+}
+
+#btn {
+    font-size: 24px;
+    text-align: center;
+}
+
+#btn:hover {
+    background-color: #FFFFFF;
+    border: 2px solid #000000;
+    color: #000000;
+}
+
+#join {
+    padding: 0;
+    padding-bottom: 20px;
+}
+
+#classes {
+    width: 50%;
+}
+
+form {
+    width: 80%;
+    margin: auto;
+}
+ 
+.card {
+    margin: auto;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border: 1px solid #FFFFFF;
+    width: 50%;
+  }
+  
+  .card:hover {
+    border: 1px solid #000000;
+  }
+
+  .container {
+    padding: 2px 16px;
+  }
+
+#blogs p, #blogs h3, #blogs a {
+    text-decoration: none;
+    color: #000000;
+    
+  }
